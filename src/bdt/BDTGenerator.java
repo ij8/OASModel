@@ -1,3 +1,4 @@
+package bdt;
 public class BDTGenerator {
 	public class TreeNode {
 		public double myValue;
